@@ -22,4 +22,4 @@ COPY . /app
 EXPOSE 7860
 
 # Start the app
-CMD ["python", "app.py"]
+CMD ["python", "first_file.py"]
